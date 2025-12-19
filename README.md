@@ -1,3 +1,21 @@
+# Project Laravel CRUD Artikel
+
+## Deskripsi
+Project web sederhana menggunakan framework Laravel.  
+Project ini dibuat sebagai pengganti ujian mata kuliah Pemrograman Web.  
+Aplikasi ini memiliki fitur login, register, dan CRUD Artikel.
+
+## Fitur
+- Login
+- Register
+- CRUD Artikel (Create, Read, Update, Delete)
+
+## Teknologi yang Digunakan
+- Laravel
+- PHP
+- MySQL
+- Blade Template
+
 ## Cara Menjalankan Project
 1. Clone repository ini
 2. Masuk ke folder project
