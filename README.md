@@ -1,5 +1,10 @@
 # Project Laravel CRUD Artikel
 
+## Anggota Kelompok
+1. Jiyad Al Khalqi (230705113)
+2. Murdnail (230705131)
+3. Rizki Ramadhan (230705087)
+
 ## Deskripsi
 Project web sederhana menggunakan framework Laravel.  
 Project ini dibuat sebagai pengganti ujian mata kuliah Pemrograman Web.  
